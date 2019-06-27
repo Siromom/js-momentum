@@ -6,3 +6,12 @@ h1 {
     font-size: 70px;
     color: black;
 }
+
+.form,
+.greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
